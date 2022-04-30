@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: AudioHarmonizer.PcbDoc   4/6/2022  2:21:09 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : AudioHarmonizer.TXT
+ASCII RectHoles File : AudioHarmonizer-RectHoles.TXT
+EIA File   : AudioHarmonizer.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             55        PTH        20.14inch (511.57mm)
+T2      24mil (0.599mm)                                           Round             2         PTH        0.07inch (1.90mm)
+T3      28mil (0.701mm)                                           Round             6         PTH        7.78inch (197.72mm)
+T4      39mil (1.001mm)                                           Rectangle         3         PTH        1.85inch (47.04mm)
+T5      41mil (1.039mm)                                           Round             38        PTH        5.50inch (139.70mm)
+T6      42mil (1.069mm)                                           Round             4         PTH        0.30inch (7.62mm)
+T7      43mil (1.092mm)                                           Round             6         PTH        3.01inch (76.47mm)
+T8      47mil (1.199mm)                                           Round             3         PTH        0.20inch (5.00mm)
+T9      131mil (3.32mm)                                           Round             2         PTH        0.35inch (8.80mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              119
+
+Total Processing Time (hh:mm:ss) : 00:00:00
